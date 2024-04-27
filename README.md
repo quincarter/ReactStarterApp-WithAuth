@@ -8,7 +8,8 @@ This project uses Vite, React, React Router Dom, Material UI, and Appwrite Cloud
 
 ## Getting started
 
-Use this template.
+<a href="https://github.com/new?template_name=ReactStarterApp-WithAuth&template_owner=quincarter"><img width="144" alt="Screenshot 2024-04-27 at 3 02 29 PM" src="https://github.com/quincarter/ReactStarterApp-WithAuth/assets/18407074/885755c4-d039-4419-9243-89b9365372c8"></a>
+
 
 Then install dependencies and start it up.
 
